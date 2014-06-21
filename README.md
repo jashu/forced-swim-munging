@@ -14,6 +14,7 @@ the time of **ONSET** for that behavior.
 
 For each subject the first line must be set to:
 -	subject 0 0 behavior
+
 And the last line must be set to:
 -	subject 5 0 E
 
