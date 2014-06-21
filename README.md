@@ -13,26 +13,26 @@ where subject, minute, and second must be whole numbers, and behavior must be a 
 the time of **ONSET** for that behavior.
 
 For each subject the first line must be set to:
-	subject 0 0 behavior
+-	subject 0 0 behavior
 And the last line must be set to:
-	subject 5 0 E
+-	subject 5 0 E
 
 The subject number must repeat on every line corresponding to that subject.
 Here is an example of properly formatted data for two subjects, numbered 1 and 2:
 
-1	0	0	I
-1	0	7	S
-1	0	18	I
-1	1	11	S
-1	1	24	I
-1	5	0	E
-2	0	0	S
-2	0	56	I
-2	1	5	S
-2	3	28	I
-2	3	32	S
-2	3	37	I
-2	5	0	E
+- 1	0	0	I
+- 1	0	7	S
+- 1	0	18	I
+- 1	1	11	S
+- 1	1	24	I
+- 1	5	0	E
+- 2	0	0	S
+- 2	0	56	I
+- 2	1	5	S
+- 2	3	28	I
+- 2	3	32	S
+- 2	3	37	I
+- 2	5	0	E
 
 **IMPORTANT**: You must save this data as a txt file named "FSTdata.txt" and copy this file to *THIS FOLDER*.
 
